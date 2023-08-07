@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Gennady Gorin
     - name: Location
       value: Pasadena, California
@@ -93,16 +93,39 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
+- title: Presentations and Professional Development
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - title: American Physical Society March Meeting talk
+          contents:
+            - Interpretable and tractable probabilistic models for single-cell RNA sequencing
+    - year: 2022
+      items: 
+        - title: Theoretical Biophysics podcast episode
+          contents:
+            - Modeling bursty transcription
+        - title: Chen Neuroscience Research Building Weekly Seminar Series talk
+          contents:
+            - Parameterizing models of stochastic transcriptional dynamics with snapshot scRNA-seq data
+        - title: Cold Spring Harbor Laboratory Systems Biology 2022 talk
+          contents:
+            - Parameterizing models of stochastic transcriptional dynamics with snapshot scRNA-seq data
+
+
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Caltech Graduate Research Spotlight Second Prize
+    - year: 2014
       items: 
-        - Max Planck Medal
+        - Rice Engineers Week Student Competition Prize Winner
+    - year: 2013
+      items: 
+        - Rice Center for Engineering Leadership Liftoff Winner
 
 - title: Academic Interests
   type: nested_list
