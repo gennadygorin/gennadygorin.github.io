@@ -30,7 +30,7 @@
         - Bachelor of Science in Chemical and Biomolecular Engineering 
         - Bachelor of Arts in Chemistry and Asian Studies
 
-- title: Technical skills
+- title: Technical Skills
   type: map
   contents:
     - name: Computation
@@ -42,7 +42,7 @@
     - name: Mathematics
       value: stochastic processes, partial differential equations, approximation theory
 
-- title: Communications skills
+- title: Communications Skills
   type: map
   contents:
     - name: Interpersonal
@@ -112,10 +112,10 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/pachterlab/CGCCP_2023">*biVI* (Python).</a>
+    - title: <a href="https://github.com/pachterlab/CGCCP_2023"><i>biVI</i> (Python).</a>
       year: 2021
       description: Physically motivated variational autoencoder.
-    - title: <a href="https://pypi.org/project/monod/">*Monod* (Python)</a>
+    - title: <a href="https://pypi.org/project/monod/"><i>Monod</i> (Python)</a>
       year: 2021
       description: Mechanistic transcriptional inference from sequencing data.
     - title: <a href="https://pypi.org/project/protaccel/">protaccel (Python)</a>

@@ -1,12 +1,15 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Theory 
+description: Unifying sequencing analyses with foundational stochastic theory
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: gorin_studying_2023,gorin_length_2023,gorin_distinguishing_2023
 ---
+
+
+The unification of 
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
