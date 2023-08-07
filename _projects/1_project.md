@@ -8,9 +8,14 @@ category: work
 related_publications: gorin_studying_2023,gorin_length_2023,gorin_distinguishing_2023
 ---
 
+Single-cell workflows have been evolving at tremendous pace — yet data interpretation has been lagging behind in important ways. Conventional analyses take inspiration from the computer science field, using methods from signal processing and graph theory. But gene expression violates many of these methods' assumptions: it is high-dimensional, discrete, and sparse. Even if the current methods work acceptably _some_ of the time, I strive to characterize their limits and failure modes to understand how to build on them.
 
-The unification of 
+The observed experimental readouts combine biological variability due to cell type heterogeneity, transcriptional bursting, and single-molecule stochasticity, as well as technical variability due to imperfect sequencing, batch effects, and many as of yet uncharacterized sources of variation. To appropriately attribute and exploit differences in expression, we need to separate biological and technical sources. 
 
+My Ph.D. work has focused on developing a suite of interpretable, tractable models that combine single-cell biology with the technology of single-cell RNA sequencing in a common stochastic framework. 
+
+
+<!-- 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -81,4 +86,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

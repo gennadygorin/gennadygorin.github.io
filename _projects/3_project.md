@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Computation
+description: Developing robust solvers
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
+related_publications: gorin_distinguishing_2023,carilli_biophysical_2023,gorin_spectral_2022,gorin_special_2020,vastola_analytic_2021
 ---
 
 Every project has a beautiful feature showcase page.
