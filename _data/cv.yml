@@ -14,7 +14,7 @@
   type: time_table
   contents:
     - title: Ph.D.
-      institution: California Institute of Technology
+      institution: California Institute of Technology, Pachter Laboratory
       year: 2018 - 2023
       description:
         - 'Thesis: "Stochastic Foundations for Single-Cell RNA Sequencing"'
