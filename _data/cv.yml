@@ -3,6 +3,11 @@
   contents:
     - name: Full Name
       value: Gennady Gorin
+    - name: Location
+      value: Pasadena, California
+    - name: Summary
+      value: A postdoctoral scholar at the Pachter Laboratory at Caltech, building theory, tools, and methods for genomics and biophysics
+    # - name: 
     # - name: Date of Birth
     #   value: 14th March 1879
     # - name: Languages
@@ -28,25 +33,25 @@
         - Bachelor of Science in Chemical and Biomolecular Engineering 
         - Bachelor of Arts in Chemistry and Asian Studies
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Sciences Co-op 
+      company: Celsius Therapeutics
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Pharmaceutical startup leveraging transcriptomic analyses to develop therapeutics
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Designed methods to decipher transcriptional mechanisms of disease states for drug discovery
+            - Integrated analyses into the company’s cloud computational pipeline for large patient datasets
+    - title: Research Intern
+      institution: Golding Laboratory, Baylor College of Medicine
+      year: 2017 - 2018
       description:
-        - Description 1.
-        - Description 2.
+        - title: Academic laboratory synthesizing experiments and biophysics to decipher cell biology
+          contents:
+            - Description 1.
+            - Description 2.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
