@@ -1,34 +1,47 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Pachter":
+  - firstname: ["Lior", "L."]
+    url: http://pachterlab.github.io/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Chari":
+  - firstname: ["Tara", "T."]
+    url: http://pachterlab.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Vastola":
+  - firstname: ["John", "John J.", "J.J.", "J. J.", "J."]
+    url: https://www.johnvastola.com/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Fang":
+  - firstname: ["Meichen", "M."]
+    url: https://www.linkedin.com/in/meichen-fang-38570b1bb/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Carilli":
+  - firstname: ["Maria", "M."]
+    url: https://www.linkedin.com/in/maria-carilli-21b107190/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Choi":
+  - firstname: ["Yongin", "Y."]
+    url: https://www.linkedin.com/in/yongin-choi/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Holmes":
+  - firstname: ["William", "William R.", "W.R.", "W. R.", "W."]
+    url: https://holmeslab.home.blog/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Svensson":
+  - firstname: ["Valentine", "V."]
+    url: https://www.nxn.se/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Xu":
+  - firstname: ["Heng", "H."]
+    url: https://ins.sjtu.edu.cn/peoples/xuheng
+    
+"Golding":
+  - firstname: ["Ido", "I."]
+    url: https://bacteriophysics.web.illinois.edu/
+    
+"Wang":
+  - firstname: ["Mengyu", "M."]
+    url: https://scholar.google.com/citations?user=AO1R-mgAAAAJ&hl=en/
+
+"Yoshida":
+  - firstname: ["Shawn", "Shawn R.", "S.R.", "S. R.", "S."]
+    url: https://www.linkedin.com/in/shawn-yoshida/
