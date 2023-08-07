@@ -33,6 +33,18 @@
         - Bachelor of Science in Chemical and Biomolecular Engineering 
         - Bachelor of Arts in Chemistry and Asian Studies
 
+- title: Languages
+  type: map
+  contents:
+    - name: English
+      value: Native speaker
+    - name: Russian
+      value: Native speaker
+    - name: French
+      value: Elementary
+    - name: Mandarin Chinese
+      value: Elementary
+
 - title: Research Experience
   type: time_table
   contents:
@@ -100,32 +112,32 @@
       items: 
         - title: American Physical Society March Meeting
           contents:
-            - Talk: "Interpretable and tractable probabilistic models for single-cell RNA sequencing"
+            - 'Talk: "Interpretable and tractable probabilistic models for single-cell RNA sequencing"'
     - year: 2022
       items: 
         - title: Theoretical Biophysics podcast episode
           contents:
-            - Modeling bursty transcription
+            - "Modeling bursty transcription"
         - title: Chen Neuroscience Research Building Weekly Seminar Series talk
           contents:
-            - Parameterizing models of stochastic transcriptional dynamics with snapshot scRNA-seq data
+            - "Parameterizing models of stochastic transcriptional dynamics with snapshot scRNA-seq data"
         - title: Cold Spring Harbor Laboratory Systems Biology 2022 talk
           contents:
-            - Parameterizing models of stochastic transcriptional dynamics with snapshot scRNA-seq data
+            - "Parameterizing models of stochastic transcriptional dynamics with snapshot scRNA-seq data"
     - year: 2021
       items: 
         - title: Caltech Chemistry and Chemical Engineering Seminar Day presentation
           contents:
-            - How should we think about cells?
+            - "How should we think about cells?"
         - title: Gordon Research Conference on Stochastic Physics in Biology 2021 poster
           contents:
-            - Markov models of RNA transcription and sequencing
+            - "Markov models of RNA transcription and sequencing"
         - title: Society for Industrial and Applied Mathematics Dynamical Systems 2021 poster
           contents:
-            - Modular and interpretable models of transcriptional noise and splicing
+            - "Modular and interpretable models of transcriptional noise and splicing"
         - title: Biophysical Society 2021 Annual Meeting poster
           contents:
-            - Analysis of Length Biases in Single-Cell RNA Sequencing of Unspliced mRNA by Markov Modeling
+            - "Analysis of Length Biases in Single-Cell RNA Sequencing of Unspliced mRNA by Markov Modeling"
 
 
 - title: Honors and Awards
