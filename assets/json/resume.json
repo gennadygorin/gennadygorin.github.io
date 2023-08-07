@@ -125,11 +125,23 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Caltech Graduate Research Spotlight Second Prize",
+      "date": "2019-05",
+      // "awarder": "Royal Swedish Academy of Sciences",
+      // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Rice Engineers Week Student Competition Prize Winner",
+      "date": "2014-02",
+      // "awarder": "Royal Swedish Academy of Sciences",
+      // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
+    {
+      "title": "Rice Center for Engineering Leadership Liftoff Winner",
+      "date": "2013-09",
+      // "awarder": "Royal Swedish Academy of Sciences",
+      // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
   ],
   "certificates": [],
   "publications": [],

@@ -412,7 +412,7 @@ medium_zoom:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume
+  - data: json
     json: assets/json/resume.json # it can also be an url
 jsonresume:
   - basics
