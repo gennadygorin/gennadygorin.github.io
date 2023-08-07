@@ -112,9 +112,18 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/pachterlab/CGCCP_2023">*biVI* (Python).</a>
+      year: 2021
+      description: Physically motivated variational autoencoder.
+    - title: <a href="https://pypi.org/project/monod/">*Monod* (Python)</a>
+      year: 2021
+      description: Mechanistic transcriptional inference from sequencing data.
+    - title: <a href="https://pypi.org/project/protaccel/">protaccel (Python)</a>
+      year: 2019
+      description: Trajectory inference from protein/RNA datasets 
+    - title: <a href="https://data.caltech.edu/records/1287">Transcriptional elongation simulator (MATLAB)</a>
+      year: 2019
+      description: Stochastic simulation for visualization and estimation of transcriptional kinetics 
 
 - title: Presentations and Professional Development
   type: time_table
@@ -167,15 +176,15 @@
         - title: q-bio 2018 Conference
           contents:
             - '"Simulating and Fitting Stochastic Models of RNA Transcription via the Gillespie Algorithm", poster'
-        - title: q-bio 2018 Summer School
+        - q-bio 2018 Summer School
     - year: 2017
       items: 
         - title: Rice Engineering Design Showcase
           contents:
-            - "Cow Manure to Methanol by Hydrothermal Gasification"
+            - '"Cow Manure to Methanol by Hydrothermal Gasification"'
         - title: Akers Senior Design Competition
           contents:
-            - "Cow Manure to Methanol by Hydrothermal Gasification"
+            - '"Cow Manure to Methanol by Hydrothermal Gasification"'
     - year: 2016
       items: 
         - title: Indiana University Materials Symposium
@@ -224,7 +233,6 @@
       description:
         - Proofread public domain e-books for Distributed Proofreaders, a non-profit project that produces texts for Project Gutenberg. 
       
-
 
 - title: Awards
   type: time_table
