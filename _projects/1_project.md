@@ -2,7 +2,7 @@
 layout: page
 title: Theory 
 description: Unifying sequencing analyses with foundational stochastic theory
-img: assets/img/12.jpg
+img: assets/img/velo.jpg
 importance: 1
 category: work
 related_publications: gorin_studying_2023,gorin_length_2023,gorin_distinguishing_2023
@@ -21,17 +21,17 @@ Second, it provides a principled way to ask questions of standard workflows, cla
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/theory.jpg" title="Stochastic process theory" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/velo.jpg" title="RNA velocity issues" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/baselines.jpg" title="Theoretical baselines" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Unified framework, velocity, Monod stuff.
+    Stochastic modeling provides a principled alternative to the foundational issues of RNA velocity and dimensionality reduction.
 </div>
 
 
