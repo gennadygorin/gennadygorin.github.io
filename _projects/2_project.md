@@ -2,7 +2,7 @@
 layout: page
 title: Statistics
 description: Leveraging multiomics to discover biology
-img: assets/img/3.jpg
+img: assets/img/bivi.jpg
 importance: 2
 category: work
 giscus_comments: true
