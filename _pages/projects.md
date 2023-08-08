@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Rigorous analysis of sequencing data requires a combination of theory, to define models; statistics, to learn about the data's support for the models; and computation, to evaluate the models for statistical inference.
 nav: true
 nav_order: 2
 display_categories: [work, fun]

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Theory 
-description: Unifying sequencing analyses with foundational stochastic theory
+description: Unifying sequencing analyses with stochastic theory
 img: assets/img/velo.jpg
 importance: 1
 category: work
