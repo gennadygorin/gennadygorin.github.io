@@ -7,8 +7,9 @@ importance: 3
 category: work
 related_publications: gorin_distinguishing_2023,carilli_biophysical_2023,gorin_spectral_2022,gorin_special_2020,vastola_analytic_2021
 ---
-Stochastic modeling is 
+Despite the advantages of stochastic modeling, many challenges remain. In particular, practically every interesting biophysical system is intractable, and requires approximation to solve. To fit data, it is necessary to develop new algorithms.
 
+A considerable portion of my Ph.D. work entailed the development of solvers for biological stochastic process distributions. The *Monod* numerical package 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
