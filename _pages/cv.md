@@ -4,6 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: website_cv.pdf
+description: I am a Ph.D. chemical engineer with a broad background in bioinformatics and stochastic processes. This perspective has already made a drastic impact on bioinformatics best practices. I seek to bring it to industrial research and development, and work with interdisciplinary teams to help change the world of biotech.
 ---
