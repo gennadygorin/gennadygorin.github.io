@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computation
-description: Developing robust solvers
+description: Developing numerical strategies and solvers
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
