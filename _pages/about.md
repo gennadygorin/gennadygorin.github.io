@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc in the <a href='http://pachterlab.github.io/'>Pachter laboratory</a>, seeking positions in industrial bioinformatics.
+subtitle: Postdoc seeking positions in industrial bioinformatics
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. from Pachter Laboratory at Caltech, with experience in building theory, tools, and methods for genomics and biophysics. I am excited to transition to the biotechnology industry and bring a rigorous mechanistic approach to research and development.
+I am a Ph.D. from the <a href='http://pachterlab.github.io/'>Pachter Laboratory</a> at Caltech, with experience in building theory, tools, and methods for genomics and biophysics. I am excited to transition to the biotechnology industry and bring a rigorous mechanistic approach to research and development.
 
 As an academic and industry researcher, I have combined bioinformatics and physics to improve single-cell analyses and innovate active pipelines for therapeutic discovery. I am looking for a role that would use the depth of my interdisciplinary background to develop revolutionary methods for single-cell biology, putting my team at the forefront of the industry and enabling research that changes lives for the better.
 
