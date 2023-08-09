@@ -35,7 +35,7 @@
   contents:
     - name: Computation
       value: Python (NumPy, SciPy, PyTorch, pandas), MATLAB, bash, CentOS administration 
-    - name: Data analysis
+    - name: Data&nbsp;analysis
       value: bioinformatics (kb, scanpy, velocyto, Monod) for multi-modal single-cell RNA sequencing technologies
     - name: Modeling
       value: stochastic biophysical modeling, simulation, and inference; variational autoencoder design
@@ -114,10 +114,10 @@
   contents:
     - title: <a href="https://github.com/pachterlab/CGCCP_2023"><i>biVI</i> (Python)</a>
       year: 2021
-      description: Physically motivated variational autoencoder.
+      description: Physically motivated variational autoencoder
     - title: <a href="https://pypi.org/project/monod/"><i>Monod</i> (Python)</a>
       year: 2021
-      description: Mechanistic transcriptional inference from sequencing data.
+      description: Mechanistic transcriptional inference from sequencing data
     - title: <a href="https://pypi.org/project/protaccel/">protaccel (Python)</a>
       year: 2019
       description: Trajectory inference from protein/RNA datasets 
@@ -231,7 +231,7 @@
       institution: Distributed Proofreaders
       year: 2021
       description:
-        - Proofread public domain e-books for Distributed Proofreaders, a non-profit project that produces texts for Project Gutenberg. 
+        - Proofread public domain e-books for Distributed Proofreaders, a non-profit project that produces texts for Project Gutenberg
       
 
 - title: Awards
