@@ -8,6 +8,8 @@ category: work
 related_publications: gorin_studying_2023,gorin_length_2023,gorin_distinguishing_2023,gorin_transient_2022
 ---
 
+> **In brief**: I develop, solve, and apply models that represent variability due to sequencing as well as biology, and use these models to understand the limitations of typical workflows.
+
 Single-cell workflows have been evolving at tremendous pace — yet data interpretation has been lagging behind in important ways. Conventional analyses take inspiration from the computer science field, using methods from signal processing and graph theory. But gene expression violates many of these methods' assumptions: it is high-dimensional, discrete, and sparse. Even if the current methods work acceptably _some_ of the time, I strive to characterize their limits and failure modes to understand how to build on them.
 
 The observed experimental readouts combine biological variability due to cell type heterogeneity, transcriptional bursting, and single-molecule stochasticity, as well as technical variability due to imperfect sequencing, batch effects, and many as of yet uncharacterized sources of variation. To appropriately attribute and exploit differences in expression, we need to understand the contributions of biological and technical effects.
