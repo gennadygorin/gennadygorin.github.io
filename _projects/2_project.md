@@ -5,7 +5,7 @@ description: Leveraging multiomics to discover biology
 img: assets/img/bivi.jpg
 importance: 2
 category: work
-related_publications: gorin_studying_2023,gorin_length_2023,gorin_distinguishing_2023,gorin_interpretable_2022,gorin_intrinsic_2020,gorin_protein_2020,carilli_biophysical_2023
+related_publications: gorin_studying_2023,gorin_length_2023,gorin_distinguishing_2023,gorin_interpretable_2022,gorin_intrinsic_2020,gorin_protein_2020,carilli_biophysical_2023,chari_biophysically_2023
 ---
 
 > **In brief**: I develop methods and analyses for multiomic data, with a particular focus on understanding its benefits of standard scRNA-seq.

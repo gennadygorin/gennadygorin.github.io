@@ -5,7 +5,7 @@ description: Developing numerical strategies and solvers
 img: assets/img/spectral.jpg
 importance: 3
 category: work
-related_publications: gorin_distinguishing_2023,carilli_biophysical_2023,gorin_spectral_2022,gorin_special_2020,vastola_analytic_2021
+related_publications: gorin_distinguishing_2023,carilli_biophysical_2023,gorin_spectral_2022,gorin_special_2020,vastola_analytic_2021,chari_biophysically_2023
 ---
 
 > **In brief**: I design and implement novel computational methods to efficiently and accurately fit sequencing datasets.
