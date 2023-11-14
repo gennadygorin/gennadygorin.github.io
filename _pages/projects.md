@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Rigorous analysis of sequencing data requires a combination of theory, to define models; statistics, to learn about the data's support for the models; and computation, to evaluate the models for statistical inference.
+description: Rigorous analysis of sequencing data requires a combination of theory, to define models; computation, to evaluate the models in the context of large genomic datasets; and statistics, to learn about the data's support for the models and design informative experiments.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
