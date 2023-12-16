@@ -5,7 +5,7 @@ description: Unifying sequencing analyses with stochastic theory
 img: assets/img/velo.jpg
 importance: 1
 category: work
-related_publications: gorin_studying_2023,gorin_length_2023,gorin_distinguishing_2023,gorin_transient_2023
+related_publications: gorin_studying_2023,gorin_length_2023,gorin_distinguishing_2023,gorin_transient_2023,gorin_new_2024,gorin_rna_2022
 ---
 
 > **In brief**: I develop, solve, and apply models that represent variability due to sequencing as well as biology, and use these models to understand the limitations of typical workflows.
