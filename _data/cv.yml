@@ -59,6 +59,13 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Senior Scientist, Computational Biology 
+      company: Celsius Therapeutics
+      year: 2023 – present
+      description:
+        - title: Startup applying hibernation biology discoveries to improve human health
+          contents:
+            - Designing computational methods for non-model organism omics
     - title: Data Sciences Co-op 
       company: Celsius Therapeutics
       year: 2022

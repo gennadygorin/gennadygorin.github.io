@@ -14,7 +14,7 @@ Single-cell workflows have been evolving at tremendous pace — yet data interpr
 
 The observed experimental readouts combine biological variability due to cell type heterogeneity, transcriptional bursting, and single-molecule stochasticity, as well as technical variability due to imperfect sequencing, batch effects, and many as of yet uncharacterized sources of variation. To appropriately attribute and exploit differences in expression, we need to understand the contributions of biological and technical effects.
 
-My Ph.D. work has focused on developing a suite of interpretable, tractable models that combine the mechanisms of single-cell biology with the technology of single-cell RNA sequencing in a common stochastic framework. This approach brings the foundations of sequencing in line with theory developed for fluorescence transcriptomics, and confers two advantages.
+My Ph.D. work focused on developing a suite of interpretable, tractable models that combine the mechanisms of single-cell biology with the technology of single-cell RNA sequencing in a common stochastic framework. This approach brings the foundations of sequencing in line with theory developed for fluorescence transcriptomics, and confers two advantages.
 
 First, the mechanistic approach uses more of the data and provides more information than the descriptive approach. For example, instead of talking about differences in average gene expression, we can directly attribute those differences to changes in specific transcriptional parameters. To that end, I have implemented the *Monod* software package and used it to characterize subtle differences in biophysical processes which would otherwise be undetectable.
 

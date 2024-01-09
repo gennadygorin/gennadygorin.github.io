@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc seeking positions in industrial bioinformatics
+subtitle: Senior Scientist applying stochastic models for therapeutic discovery
 
 profile:
   align: right
@@ -18,10 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. from the <a href='http://pachterlab.github.io/'>Pachter Laboratory</a> at Caltech, with experience in building theory, tools, and methods for genomics and biophysics. I am excited to transition to the biotechnology industry and bring a rigorous mechanistic approach to research and development.
+I am a Senior Scientist, Computational Biology at <a href='https://www.faunabio.com/'>Fauna Bio</a>, a biotech startup leveraging non-model system biology to improve human health. I received my Ph.D. from the <a href='http://pachterlab.github.io/'>Pachter Laboratory</a> at Caltech, establishing foundational theory, tools, and methods for genomics and biophysics. 
 
-As an academic and industry researcher, I have combined bioinformatics and physics to improve single-cell analyses and innovate active pipelines for therapeutic discovery. I am looking for a role that would use the depth of my interdisciplinary background to develop revolutionary methods for single-cell biology, putting my team at the forefront of the industry and enabling research that changes lives for the better.
+As an academic and industry researcher, I have combined bioinformatics and physics to improve single-cell analyses and innovate active pipelines for therapeutic discovery. I am excited to use the depth of my interdisciplinary background to develop revolutionary methods for single-cell biology, putting my team at the forefront of the industry and enabling research that changes lives for the better.
 
+For requests to referee scientific articles, please contact me using my personal email, listed below.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
