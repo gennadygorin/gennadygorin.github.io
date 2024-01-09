@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Senior Scientist, Computational Biology at <a href='https://www.faunabio.com/'>Fauna Bio</a>, a biotech startup leveraging non-model system biology to improve human health. I received my Ph.D. from the <a href='http://pachterlab.github.io/'>Pachter Laboratory</a> at Caltech, establishing foundational theory, tools, and methods for genomics and biophysics. 
+I am a Senior Scientist, Computational Biology at <a href='https://www.faunabio.com/'>Fauna Bio</a>, a biotech startup leveraging non-model organism biology to improve human health. I received my Ph.D. from the <a href='http://pachterlab.github.io/'>Pachter Laboratory</a> at Caltech, establishing foundational theory, tools, and methods for genomics and biophysics. 
 
 As an academic and industry researcher, I have combined bioinformatics and physics to improve single-cell analyses and innovate active pipelines for therapeutic discovery. I am excited to use the depth of my interdisciplinary background to develop revolutionary methods for single-cell biology, putting my team at the forefront of the industry and enabling research that changes lives for the better.
 
