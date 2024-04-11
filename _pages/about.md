@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>254 N. Lake Ave, #314</p>
-    <p>Pasadena, CA, 91101</p>
+  # address: >
+  #   <p>254 N. Lake Ave, #314</p>
+  #   <p>Pasadena, CA, 91101</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
