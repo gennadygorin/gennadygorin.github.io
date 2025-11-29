@@ -97,21 +97,20 @@
 	abstract = {We explore a Markov model used in the analysis of gene expression, involving the bursty production of pre-mRNA, its conversion to mature mRNA, and its consequent degradation. We demonstrate that the integration used to compute the solution of the stochastic system can be approximated by the evaluation of special functions. Furthermore, the form of the special function solution generalizes to a broader class of burst distributions. In light of the broader goal of biophysical parameter inference from transcriptomics data, we apply the method to simulated data, demonstrating effective control of precision and runtime. Finally, we propose and validate a non-Bayesian approach for parameter estimation based on the characteristic function of the target joint distribution of pre-mRNA and mRNA.},
 }
 
-@article{gorin_distinguishing_2023,
+@article{gorin_monod_2025,
 	preview = {monod.jpg},
-	journal = {bioRxiv},
+	journal = {Nature Methods},
 	selected = {false},
-	title = {Distinguishing biophysical stochasticity from technical noise in single-cell {RNA} sequencing using Monod},
-	copyright = {Creative Commons Attribution 4.0 International License (CC-BY)},
+	title = {Monod: model-based discovery and integration through fitting stochastic transcriptional dynamics to single-cell sequencing data},
 	shorttitle = {\textit{{Monod}}},
-	html = {https://www.biorxiv.org/content/10.1101/2022.06.11.495771v2},
-	abstract = {We present the Python package Monod for the analysis of single-cell RNA sequencing count data through biophysical modeling. Monod naturally “integrates” unspliced and spliced count matrices, and provides a route to identifying and studying differential expression patterns that do not cause changes in average gene expression. The Monod framework is open-source and modular, and may be extended to more sophisticated models of variation and further experimental observables.
-
-The Monod package can be installed from the command line using pip install monod. The source code is available and maintained at https://github.com/pachterlab/monod. A separate repository, which contains sample data and Python notebooks for analysis with Monod, is accessible at https://github.com/pachterlab/monod\_examples/. Structured documentation and tutorials are hosted at https://monod-examples.readthedocs.io/.},
+	html = {https://www.nature.com/articles/s41592-025-02832-x},
+	number = {22},
+	pages = {2286-2300},
+	abstract = {Single-cell RNA sequencing analysis centers on illuminating cell diversity and understanding the transcriptional mechanisms underlying cellular function. These datasets are large, noisy and complex. Current analyses prioritize noise removal and dimensionality reduction to tackle these challenges and extract biological insight. We propose an alternative, physical approach to leverage the stochasticity, size and multimodal nature of these data to explicitly distinguish their biological and technical facets while revealing the underlying regulatory processes. With the Python package Monod, we demonstrate how nascent and mature RNA counts, present in most published datasets, can be meaningfully ‘integrated’ under biophysical models of transcription. By using variation in these modalities, we can identify transcriptional modulation not discernible through changes in average gene expression, quantitatively compare mechanistic hypotheses of gene regulation, analyze transcriptional data from different technologies within a common framework and minimize the use of opaque or distortive normalization and transformation techniques.},
 	urldate = {2022-06-17},
 	author = {Gorin, Gennady and Pachter, Lior},
-	month = apr,
-	year = {2023},
+	month = nov,
+	year = {2025},
 }
 
 @article{gorin_spectral_2022,
