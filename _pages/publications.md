@@ -8,6 +8,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
-{% assign pubs = site.scholar.publications | reverse %}
-{% assign pubs_by_year = pubs | group_by: "year" %}
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
 </div>
