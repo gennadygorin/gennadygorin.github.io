@@ -4,7 +4,7 @@
 
 "Chari":
   - firstname: ["Tara", "T."]
-    url: http://pachterlab.github.io/
+    url: https://www.linkedin.com/in/tara-chari-6387722a8/
 
 "Vastola":
   - firstname: ["John", "John J.", "J.J.", "J. J.", "J."]
@@ -45,3 +45,15 @@
 "Yoshida":
   - firstname: ["Shawn", "Shawn R.", "S.R.", "S. R.", "S."]
     url: https://www.linkedin.com/in/shawn-yoshida/
+
+"Guruge":
+  - firstname: ["Deek","Chandika","D."]
+    url: https://www.linkedin.com/in/chandika-deek-g-227668110/
+
+"Goodman":
+  - firstname: ["Linda","L."]
+    url: https://www.faunabio.com/
+
+"DeForst":
+  - firstname: ["Natalie","N."']
+    url: https://nataliedef.github.io/

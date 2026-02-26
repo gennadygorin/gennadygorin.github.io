@@ -100,7 +100,7 @@
 @article{gorin_monod_2025,
 	preview = {monod.jpg},
 	journal = {Nature Methods},
-	selected = {false},
+	selected = {true},
 	title = {Monod: model-based discovery and integration through fitting stochastic transcriptional dynamics to single-cell sequencing data},
 	shorttitle = {\textit{{Monod}}},
 	html = {https://www.nature.com/articles/s41592-025-02832-x},
@@ -201,10 +201,12 @@
 	pages = {100097},
 }
 
+
+
 @article{carilli_biophysical_2023,
 	preview = {bivi.jpg},
 	journal = {Nature Methods},
-	selected = {true},
+	selected = {false},
 	title = {Biophysical modeling with variational autoencoders for bimodal, single-cell RNA sequencing data},
 	copyright = {All rights reserved},
 	html = {https://www.nature.com/articles/s41592-024-02365-9},
@@ -230,6 +232,55 @@
 	year = {2023},
 }
 
+@article{gorin_empty_2026,
+	preview = {emptydrops.jpg},
+	author = {Gorin, Gennady and Goodman, Linda},
+	title = {Empty drops in scRNA-seq uncover the surprising prevalence of sequestered neuropeptide mRNA and pervasive sequencing artifacts},
+	year = {2026},
+	month= = feb,
+	doi = {10.64898/2026.02.13.705850},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {The empty drops in single-cell sequencing experiments are an underexplored resource. As such, they present a substrate to ask questions orthogonal to standard single-cell sequencing workflows, calibrate statistical models using simple internal controls, and detect technical outliers which would be otherwise challenging to distinguish from real biology. In this case study, we report a relatively simple procedure to detect sequencing artifacts and make recommendations to reduce the risk of erroneous quantifications. In addition, we report the surprising abundance and co-expression of mRNA coding for neuropeptide-related genes in the empty drops, possibly reflecting underlying physiology.},
+	html = {https://www.biorxiv.org/content/early/2026/02/15/2026.02.13.705850},
+	journal = {bioRxiv}
+}
+
+@article{gorin_xist_2026,
+	preview = {xist.jpg},
+	author = {Gorin, Gennady and DeForest, Natalie and Goodman, Linda},
+	title = {Unexpected XIST Expression in Male Hearts Associates with Disease},
+	year = {2026},
+	month = jan, 
+	abstract = {XIST is a long non-coding RNA that mediates the process of X chromosome inactivation in females, and has not been previously observed in males outside of developmental, pathological, and ectopic contexts. We report the unprecedented endogenous expression of XIST in 226 male heart samples across 15 single-cell RNA sequencing studies. The male expression of XIST is specific to a rare cell type typically annotated as neurons or glia. We investigate a variety of explanations and cross-reference the expression of XIST against age, sex, and pathology, finding signatures of a non-canonical inhibitory program, potentially mediated by a truncated transcript. Interestingly, the highest-powered datasets exhibit XIST upregulation in heart disease and comorbidity donors relative to healthier controls. Furthermore, in humans we identify a male-specific association of the XIST genomic locus with myocardial infarction (p = 1.3 {\texttimes} 10-4). Taken together, our findings suggest that the pathology of cardiomyopathy may involve uncharacterized, therapeutically actionable non-coding RNA pathways that operate through the cardiac nervous system, and underscore the importance of genomic investigations of the X chromosome.},
+	html = {https://www.biorxiv.org/content/early/2026/01/24/2025.04.09.648005},
+	journal = {bioRxiv}
+}
+
+@article {gorin_thesis_2023,
+	preview = {Seal_of_the_California_Institute_of_Technology.svg},
+	author = {Gorin, Gennady},
+	title = {Stochastic foundations for single-cell RNA sequencing},
+	year = {2023},
+	month = may,
+	publisher = {California Institute of Technology},
+	abstract = {Single-cell RNA sequencing, which quantifies cell transcriptomes, has seen widespread adoption, accompanied by proliferation of analysis methods. However, there has been relatively little systematic investigation of its best practices and their underlying assumptions, leading to challenges and discrepancies in interpretation. I present a set of generic, principled strategies for modeling the biological and technical components of sequencing experiments and use case studies to motivate their application to sequencing data.},
+	html = {https://thesis.caltech.edu/16062/},
+}
+
+
+@article {gorin_depower_2026,
+	preview = {depower.jpg},
+	author = {Gorin, Gennady and Guruge, Deek and Goodman, Linda},
+	title = {DEPower: approximate power analysis with DESeq2},
+	year = {2026},
+	month = feb,
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {Rigorous experimental design, including formal power analysis, is a cornerstone of reproducible RNA sequencing (RNA-seq) research. The design of RNA-seq experiments requires computing the minimum sample number required to identify an effect of a particular size at a predefined significance level. Ideally, the statistical test used for the analysis of experimental data should match the test used for sample size determination; however, few tools use the assumptions of the popular differential expression testing framework DESeq2, and most opt for simulation-based rather than analytical approaches. Grounded in the DESeq2 model framework, we derive sample size requirements for both single-cell and bulk RNA-seq experiments delivered as a web-based tool for power analysis, DEPower, available at https://poweranalysis-fb.streamlit.app/ that makes rigorous RNA-seq study design accessible to all researchers.},
+	html = {https://www.biorxiv.org/content/early/2026/02/09/2026.02.05.704084},
+	journal = {bioRxiv}
+}
+
+
 @article{gorin_studying_2023,
 	selected = {true},
 	preview = {bigpicture.jpg},
@@ -248,7 +299,7 @@
 	year = {2023},
 }
 
-@article{chari_biophysically_2023,
+@article{chari_biophysically_2024,
 	preview = {meK.jpg},
 	journal = {Nature Computational Science},
 	title = {Biophysically interpretable inference of cell types from multimodal sequencing data},
