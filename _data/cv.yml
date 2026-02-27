@@ -34,11 +34,19 @@
   type: map
   contents:
     - name: Computation
-      value: Python (NumPy, SciPy, PyTorch, pandas), MATLAB, bash, CentOS administration 
-    - name: Data&nbsp;analysis
-      value: bioinformatics (kb, scanpy, velocyto, Monod) for multi-modal single-cell RNA sequencing technologies
+      value: Python (NumPy, SciPy, PyTorch, pandas), MATLAB, R, bash, Linux administration  
+    - name: Cloud
+      value: Amazon Web Services, Google Cloud, Nextflow
+    - name: Data
+      value: bioinformatics (kb, scanpy, scVI, Monod) for multi-modal single-cell RNA sequencing technologies
+    - name: Transcriptomics
+      value: differential expression, cell–cell communication, regulatory network inference 
+    - name: Genomics
+      value: protein-protein interaction and peptide prediction, genome quality control 
     - name: Modeling
       value: stochastic biophysical modeling, simulation, and inference; variational autoencoder design
+    - name: Statistics
+      value: Bayesian inference, MCMC, generalized linear models, experiment power analysis 
     - name: Mathematics
       value: stochastic processes, partial differential equations, approximation theory
 
@@ -48,9 +56,9 @@
     - name: Interpersonal
       value: collaborating in a fast-paced pharma startup, building effective teams for solving problems
     - name: Written
-      value: scientific manuscripts, industry technical reports
+      value: scientific manuscripts, industry technical reports, drug target concept sheets
     - name: Visual
-      value: data visualization, qualitative illustrations of mathematics and biophysics
+      value: qualitative illustrations of biophysics, data visualization using Streamlit and ipywidgets
     - name: Verbal
       value: seminar presentations to specialist and non-technical audiences, scripted and unscripted theater
     - name: Languages
@@ -61,19 +69,24 @@
   contents:
     - title: Senior Scientist, Computational Biology 
       company: Fauna Bio
-      year: 2023 – present
+      year: 2023 – 2026
       description:
-        - title: Startup applying hibernation biology discoveries to improve human health
+        - title: Pharmaceutical startup using hibernation biology to discover human drug targets
           contents:
-            - Designing computational methods for non-model organism omics
+            - Designed and implemented pipelines and analyses for bulk, single-cell, and single-nucleus RNA sequencing data
+            - Developed statistical and bioinformatic methods for the study of hibernation biology
+            - Curated, analyzed, and integrated public datasets as part of a strategy for indication scoping
+            - Created and pitched concept sheets for drug targets to a Top 5 pharmaceutical company
+
     - title: Data Sciences Co-op 
       company: Celsius Therapeutics
       year: 2022
       description:
-        - title: Pharmaceutical startup leveraging transcriptomic analyses to develop therapeutics
+        - title: Pharmaceutical startup leveraging transcriptomic analyses to develop cancer therapeutics
           contents:
             - Designed methods to decipher transcriptional mechanisms of disease states for drug discovery
             - Integrated analyses into the company’s cloud computational pipeline for large patient datasets
+
     - title: Research Intern
       institution: Golding Laboratory, Baylor College of Medicine
       year: 2017 - 2018
@@ -119,6 +132,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://poweranalysis-fb.streamlit.app/"><i>DEPower</i> (Python)</a>
+      year: 2026
+      description: Sample size calculator for RNA-seq experiments
     - title: <a href="https://github.com/pachterlab/CGCCP_2023"><i>biVI</i> (Python)</a>
       year: 2021
       description: Physically motivated variational autoencoder
@@ -135,6 +151,11 @@
 - title: Presentations and Professional Development
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - title: Flatiron Institute "Modeling and Inference of Stochastic Processes in Cells” workshop
+          contents:
+            - '"Revisiting normalization: practical and stochastic perspectives", invited talk'
     - year: 2023
       items: 
         - title: American Physical Society March Meeting
@@ -197,6 +218,14 @@
         - title: Indiana University Materials Symposium
           contents:
             - '"A Flow Reactor Using Catalytic Bulk-Assembled Virus-Like Particles", poster'
+
+- title: Service
+  type: map
+  contents:
+    - name: Manuscript reviewer
+      value: Nature, Elsevier, BMC, BPS, SIAM, PLoS, Royal Society, and AIP journals  
+    - name: Pipeline contributor
+      value: Bioconda, nf-core, arboreto 
 
 - title: Pedagogical and Consulting Experience
   type: time_table
@@ -269,19 +298,3 @@
       items: 
         - Rice University President's Honor Roll, 6 out of 8 semesters at Rice University
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
