@@ -5,5 +5,5 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: website_cv.pdf
-description: I am an experienced industry computational biologist with a broad background in bioinformatics and stochastic processes. This perspective has already made a drastic impact on bioinformatics best practices. I am excited to bring it to industrial research and development, and work with interdisciplinary teams to help change the world of biotech.
+description: I am an experienced computational biologist with a broad background in bioinformatics and stochastic processes. Drawing on this unique perspective, I have innovated drug discovery pipelines and improved best practices to make data more interpretable and actionable. In my next opportunity, I am excited to bring my expertise to solve challenging industry problems, and work with interdisciplinary teams to help change the world of biotech.
 ---
