@@ -3,7 +3,7 @@ layout: page
 title: Theory 
 description: Unifying sequencing analyses with stochastic theory
 img: assets/img/velo.jpg
-importance: 1
+importance: 4
 category: work
 related_publications: gorin_studying_2023,gorin_length_2023,gorin_distinguishing_2023,gorin_transient_2023,gorin_new_2024,gorin_rna_2022
 ---
